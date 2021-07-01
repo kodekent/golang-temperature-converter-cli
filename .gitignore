@@ -59,3 +59,8 @@ typings/
 
 # next.js build output
 .next
+/.idea/golang-temperature-converter-cli.iml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/temp
+/.idea/vcs.xml
